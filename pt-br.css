@@ -23,6 +23,30 @@
 }
 
 @font-face {
+    font-family: 'Zatanna';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Zatanna%20Misdirection.otf')
+}
+
+@font-face {
+    font-family: "Zatanna";
+    src: url("https://rkuerten.github.io/HBFont/fonts/Zatanna%20Misdirection%20Bold.otf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Zatanna";
+    src: url("https://rkuerten.github.io/HBFont/fonts/Zatanna%20Misdirection%20Italic.otf");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Zatanna";
+    src: url("https://rkuerten.github.io/HBFont/fonts/Zatanna%20Misdirection%20Bold%20Italic.otf");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
     font-family: 'Bookmania';
     src: url('https://rkuerten.github.io/HBFont/fonts/Bookmania%20Regular.otf')
 }
