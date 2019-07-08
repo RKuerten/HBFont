@@ -4,6 +4,43 @@
 }
 
 @font-face {
+    font-family: 'AveriaSerifLibre';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Averia%20Serif%20Libre%20Regular.ttf')
+}
+
+@font-face {
+    font-family: 'AveriaSerifLibre';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Averia%20Serif%20Libre%20Bold.ttf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'AveriaSerifLibre';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Averia%20Serif%20Libre%20Italic.ttf');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AveriaSerifLibre';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Averia%20Serif%20Libre%20Bold%20Italic.ttf');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'AveriaSerifLibre';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Averia%20Serif%20Libre%20Light.ttf');
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: 'AveriaSerifLibre';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Averia%20Serif%20Libre%20Light%20Italic.ttf');
+    font-weight: lighter;
+    font-style: italic;
+}
+
+@font-face {
     font-family: 'NodestoCaps';
     src: url('https://rkuerten.github.io/HBFont/fonts/Nodesto%20Caps.otf')
 }
