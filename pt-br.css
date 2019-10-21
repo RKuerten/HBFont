@@ -4,6 +4,11 @@
 }
 
 @font-face {
+    font-family: 'StarBlackInline';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Star%20Black%20Inline.ttf')
+}
+
+@font-face {
     font-family: 'AveriaSerifLibre';
     src: url('https://rkuerten.github.io/HBFont/fonts/Averia%20Serif%20Libre%20Regular.ttf')
 }
