@@ -1,4 +1,28 @@
 @font-face {
+    font-family: 'Davek';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Davek.otf')
+}
+
+@font-face {
+    font-family: 'Davek';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Davek%20Bold.otf');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Davek';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Davek%20Italic.otf');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Davek';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Davek%20Bold%20Italic.otf');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
     font-family: 'PsychoKiller';
     src: url('https://rkuerten.github.io/HBFont/fonts/Psycho%20Killer.ttf')
 }
