@@ -1,4 +1,9 @@
 @font-face {
+    font-family: 'Knights Quest';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Knights%20Quest.ttf')
+}
+
+@font-face {
     font-family: 'Davek';
     src: url('https://rkuerten.github.io/HBFont/fonts/Davek.otf')
 }
