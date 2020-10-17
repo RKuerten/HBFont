@@ -4,6 +4,11 @@
 }
 
 @font-face {
+    font-family: 'Herculanum';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Herculanum-Regular.ttf')
+}
+
+@font-face {
     font-family: 'Davek';
     src: url('https://rkuerten.github.io/HBFont/fonts/Davek.otf')
 }
@@ -405,94 +410,93 @@ table tr:nth-child(odd) td {
 }
 
 .smaller table tbody tr {
-	font-size: 85%
+    font-size: 85%
 }
 
 .smaller h5 {
-	font-size: 10pt;
+    font-size: 10pt;
 }
 
 .smaller td:first-child {
-	width: 90px;
+    width: 90px;
 }
 
 .smaller table thead th {
-	font-size: 90%;
+    font-size: 90%;
 }
 
 .subclass td:first-child {
-	width: 90px;
+    width: 90px;
 }
 
 .subclass td {
-	line-height: 1.3em
+    line-height: 1.3em
 }
 
 .background td {
-	line-height: 1.2em
+    line-height: 1.2em
 }
 
 .background td:first-child {
-	width: 35px
+    width: 35px
 }
 
 .tg table {
- 	margin-top: 8px;
+    margin-top: 8px;
 }
 
 .tg td:nth-child(1) {
-	width: 60px
+    width: 60px
 }
 
 .tg td:nth-child(2) {
-	width: 60px
+    width: 60px
 }
 
 .tg td:nth-child(3) {
-	width: 60px
+    width: 60px
 }
 
 .tg td:nth-child(4) {
-	width: 36px
+    width: 36px
 }
 
 .tg td:nth-child(5) {
-	width: 36px
+    width: 36px
 }
 
 .tg td:nth-child(6) {
-	width: 36px
+    width: 36px
 }
 
 .tg td:nth-child(7) {
-	width: 36px
+    width: 36px
 }
 
 .tg table thead th {
-	font-size: 90%;
+    font-size: 90%;
 }
 
 .covertext sup {
-	font-size: 0.5em;
+    font-size: 0.5em;
 }
 
 .classes td:nth-child(1) {
-	width: 80px;
+    width: 80px;
 }
 
 .classes td:nth-child(2) {
-	width: 225px;
+    width: 225px;
 }
 
 .classes td:nth-child(3) {
-	width: 35px;
+    width: 35px;
 }
 
 .classes td:nth-child(4) {
-	width: 85px;
+    width: 85px;
 }
 
 .classes td:nth-child(5) {
-	width: 85px;
+    width: 85px;
 }
-
