@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Bookmania';
+    src: url('https://rkuerten.github.io/HBFont/fonts/Bookmania%20Regular.otf')
+}
+
+@font-face {
+    font-family: "Bookmania";
+    src: url("https://rkuerten.github.io/HBFont/fonts/Bookmania%20Bold.otf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Bookmania";
+    src: url("https://rkuerten.github.io/HBFont/fonts/Bookmania%20Regular%20Italic.otf");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Bookmania";
+    src: url("https://rkuerten.github.io/HBFont/fonts/Bookmania%20Bold%20Italic.otf");
+    font-weight: bold;
+    font-style: italic;
+}
