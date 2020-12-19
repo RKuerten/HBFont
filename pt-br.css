@@ -187,8 +187,7 @@
     border-width: 8px;
 }
 
-.phb hr+blockquote p,
-ul,
+.phb hr+blockquote p, ul,
 table tbody tr td {
     font-size: 102%;
 }
