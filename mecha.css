@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Mecha";
+    src: url('https://rkuerten.github.io/HBFont/fonts/Mecha.ttf')
+}
+
+@font-face {
+    font-family: "Mecha";
+    src: url("https://rkuerten.github.io/HBFont/fonts/Mecha_Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Mecha Condensed";
+    src: url("https://rkuerten.github.io/HBFont/fonts/Mecha_Condensed.ttf");
+}
+
+@font-face {
+    font-family: "Mecha Condensed";
+    src: url("https://rkuerten.github.io/HBFont/fonts/Mecha_Condensed_Bold.ttf");
+    font-weight: bold;
+}
