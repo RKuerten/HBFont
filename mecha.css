@@ -19,3 +19,8 @@
     src: url("https://rkuerten.github.io/HBFont/fonts/Mecha_Condensed_Bold.ttf");
     font-weight: bold;
 }
+
+@font-face {
+    font-family: "Reactor Sans";
+    src: url("https://rkuerten.github.io/HBFont/fonts/Reactor-Sans.ttf");
+}
