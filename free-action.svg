@@ -4,4 +4,6 @@
 <line x1="6.35355" y1="5.64645" x2="12.3536" y2="11.6464" stroke="black"/>
 <rect x="12" y="12" width="1" height="1" transform="rotate(-45 12 12)" fill="black"/>
 <line x1="12.3536" y1="12.3536" x2="6.41386" y2="18.2933" stroke="black"/>
+<rect x="4.99023" y="7.00977" width="1.45158" height="8.51276" transform="rotate(-45 4.99023 7.00977)" fill="black"/>
+<rect x="10.9988" y="11.0012" width="1.41698" height="8.48088" transform="rotate(45 10.9988 11.0012)" fill="black"/>
 </svg>
