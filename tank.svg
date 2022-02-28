@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="tank" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2608.19 1525.509" enable-background="new 0 0 2608.19 1525.509" xml:space="preserve" >
+<svg version="1.1" id="tank" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2608.19 1525.509" enable-background="new 0 0 2608.19 1525.509" xml:space="preserve" fill="white">
 <path d="M429.439,56.426c8.19-26.398,38.322-43.176,64.963-29.054c30.017,17.199,25.814,15.181,33.027,14.978
 	c10.749-0.69,21.554-0.156,32.281-1.235c4.562-0.089,9.369-0.801,13.809,0.401c6.343,4.24,13.987,7.355,18.383,13.887
 	c0.801,8.746-0.445,17.604,0.245,26.372c25.56,15.167,51.977,28.954,77.715,43.854c15.015,8.063,18.398,33.033-7.511,56.851
